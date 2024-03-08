@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="C:/Users/Divsy/Downloads/pop (2).db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="browser pragmas query" current="2"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="125"/><column_width id="3" width="4241"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><current_table name="4,11:mainDM_messages"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="DM_messages" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="300"/><column index="2" value="300"/><column index="3" value="300"/><column index="4" value="162"/><column index="5" value="142"/><column index="6" value="602"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="additional_notes" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="52"/><column index="2" value="300"/><column index="3" value="1298"/><column index="4" value="162"/><column index="5" value="204"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="caregiver_invite_provider_token" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths/><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="family_history" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="52"/><column index="2" value="300"/><column index="3" value="163"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="head_hit_location" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths/><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="incident_head_hit_location" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="52"/><column index="2" value="166"/><column index="3" value="300"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="new_resulting_factors" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="9" mode="0"/></sort><column_widths><column index="1" value="52"/><column index="2" value="300"/><column index="3" value="139"/><column index="4" value="133"/><column index="5" value="78"/><column index="6" value="300"/><column index="7" value="117"/><column index="8" value="300"/><column index="9" value="85"/><column index="10" value="116"/><column index="11" value="221"/><column index="12" value="300"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="patient_info" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="300"/><column index="2" value="160"/><column index="3" value="139"/><column index="4" value="129"/><column index="5" value="70"/><column index="6" value="300"/><column index="7" value="115"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="patient_therapies" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="3" mode="1"/></sort><column_widths><column index="1" value="52"/><column index="2" value="300"/><column index="3" value="117"/><column index="4" value="300"/><column index="5" value="110"/><column index="6" value="300"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="patient_types" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="2" value="397"/><column index="3" value="507"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="provider_caregiver_patient" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="52"/><column index="2" value="478"/><column index="3" value="300"/><column index="4" value="578"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="provider_info" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="2" mode="1"/></sort><column_widths><column index="1" value="52"/><column index="2" value="445"/><column index="3" value="399"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="provider_patient" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="52"/><column index="2" value="492"/><column index="3" value="300"/><column index="4" value="300"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="provider_type" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="3" value="329"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="registered_sdoh" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="52"/><column index="2" value="300"/><column index="3" value="139"/><column index="4" value="133"/><column index="5" value="117"/><column index="6" value="300"/><column index="7" value="85"/><column index="8" value="116"/><column index="9" value="300"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="stroke_incident" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="8" value="481"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="symptom_details" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="52"/><column index="2" value="300"/><column index="3" value="117"/><column index="4" value="300"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="symptom_list" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="5" mode="0"/></sort><column_widths><column index="2" value="1151"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="tbi_from" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths/><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="tbi_incident" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="52"/><column index="2" value="162"/><column index="3" value="300"/><column index="4" value="300"/><column index="5" value="300"/><column index="6" value="300"/><column index="7" value="84"/><column index="8" value="300"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="tbi_indicent" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="52"/><column index="2" value="162"/><column index="3" value="141"/><column index="4" value="112"/><column index="5" value="166"/><column index="6" value="98"/><column index="7" value="84"/><column index="8" value="287"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="therapies_list" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="1" mode="0"/></sort><column_widths><column index="1" value="52"/><column index="2" value="300"/><column index="3" value="288"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="tracking_list" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="52"/><column index="2" value="551"/><column index="3" value="117"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="tracking_preferences" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths/><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="user_info" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="300"/><column index="2" value="142"/><column index="3" value="139"/><column index="4" value="129"/><column index="5" value="198"/><column index="6" value="261"/><column index="7" value="300"/><column index="8" value="162"/><column index="9" value="76"/><column index="10" value="270"/><column index="11" value="106"/><column index="12" value="123"/><column index="13" value="263"/><column index="14" value="300"/><column index="15" value="154"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="user_patients" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths/><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="Update Queries.sql">-- update patient_therapies set category ='Unknown' where category is null;
+
+-- update goals set third_goal ='None' where third_goal is NULL;
+
+-- update new_resulting_factors set severity='Unknown' where severity is NULL;
+-- update new_resulting_factors set had_symptom='Unknown' where had_symptom is NULL;
+-- update new_resulting_factors set subcategory='None' where subcategory is NULL;
+
+
+-- update user_info set referral_group='other' where referral_group not in ('other',	'Minds Matter, LLC',	'Team Luk3',	'Unite-Us',	'BIA-GA',	'BIA-IN',	'BIA-NC',	'In_Between_The_Ears',	'VT_Bend',	'NDBIN',	'BIA-VT',	'NONE',	'Vivolor',	'Warriors 2 Citizens',	'Cognivue',	'Healthy Truckers of America',	'Dr. B.',	'Your Movement Specialist',	'DSP-MA',	'DSP-CO',	'DSP-RI',	'Atlas Concussion')
+-- update user_info set referral_group='other' where referral_group is NULL;
+-- update user_info set veteran='no' where veteran is NULL;
+-- update user_info set veteran='no' where veteran not in ('yes');
+-- update user_info set race='otherRace' where race is NULL;
+
+ 
+-- update head_hit_location set location ='Other' where location='None';
+-- update incident_head_hit_location set head_hit_location='Other' where head_hit_location not in ('Front of Head',	'Back of Head',	'Left Side of Head',	'Top of Head',	'Right Side of Head',	'Neck',	'Other');
+
+select * from patient_types;
+--update patient_types set value='ABI' where value='Acquired Brain Injury';
+
+--update patient_info set patient_type='Other' where patient_type is NULL;
+--update patient_info set patient_type='ABI' where patient_type in ('ABO','Acquired Brain Injury')
+--update patient_info set patient_type='Brain tumor' where patient_type in ('Brain tumour')
+--update patient_info set patient_type='Parkinsons' where patient_type like '%Parkinso%'
+--update patient_info set patient_type='Post-Concussive Syndrome' where patient_type in('Post Concussion Syndrome','Post concussion like symptoms after anesthesia') 
+--update patient_info set patient_type='other' where patient_type not in('ABI',	'Alzheimers',	'Autism',	'CARE Manager',	'caregiver',	'Concussion',	'Covid Long-Haulers',	'Epilepsy AFTER Concussion',	'hasSymptom',	'Lewy Body',	'otherType',	'Parkinsons',	'Post-Concussive Syndrome',	'Post-Covid',	'Stroke',	'tbiPatient')
+-- update patient_info set patient_type='ABI' where patient_id in ('a2465591-c1e9-4782-81eb-a93fccc988f4',
+-- '9882e8ed-4e06-4ebf-82b3-c940d7f679a6',
+-- '847783bc-eb7d-4457-bbf7-2fa43d8ef792',
+-- 'ea2ce524-e89b-4df1-884b-db9a2aab75fb',
+-- '828af70d-f036-48c7-bec6-fa6354a04d07',
+-- '7de21a7a-d489-47a4-8106-794bfca63b7d',
+-- 'd67f859a-2b82-4f49-bbd3-13f8234f8cb1',
+-- 'fb80556f-9ffa-4298-8414-dd97232e44e5',
+-- 'eeefbf3b-6024-4f99-a604-9213e6dba9c5',
+-- '707404c1-e570-4a4c-8886-7667ffe13b84',
+-- 'a1ebeedf-1028-42f8-9523-5ac226c328c5',
+-- 'a993f149-c61e-4598-9aab-65b52c7c4353',
+-- '90b514d8-5891-4f58-ad94-1b3f3d46f466',
+-- '57c077d1-7a7d-4593-8e28-af2d372d8328',
+-- 'c875dcbf-4d7f-4752-8ff3-8dadb0b8ef98',
+-- '3377005e-d2fd-4082-a005-5aacdd27b3d7',
+-- '29a33a41-ceb2-4494-852f-26b7377ca37d',
+-- '5048797d-7b8a-4fdb-9a14-390c815cd74e',
+-- '91caaba9-1e82-4a98-aff8-a132951c6d66',
+-- '89729843-77ed-431e-b357-48dbc179af5d',
+-- '5483f326-f2da-417d-a0be-3d51ce42f1e3',
+-- '71de7056-c555-480d-8faf-6bc353e67d71',
+-- 'b3fb3305-7b5d-41df-baea-d8c5e32c6b89',
+-- 'c1069b5d-93f4-4837-939f-1598aa0cb744',
+-- '128dc5c2-dfca-4fa3-93d9-1623fc77f7e8',
+-- 'b39be267-dfcd-4598-9993-a1cf49c989f2',
+-- 'a5a04a35-06c6-4c63-a425-cf9e880bf184',
+-- '3cd7d464-7a22-4e01-8127-415c576ab1de',
+-- '6b639ee4-0a83-42d5-bb61-c2d2a510f16c',
+-- '00e179cd-5edb-47fe-be53-b1e96e905433')
+
+
+--update symptom_list set category='other' where category is NULL;
+--update symptom_list set subcategory='Other' where subcategory is NULL;
+--update symptom_list set subcategory='Other' where subcategory ='other';
+--update symptom_list set subcategory='Other' where subcategory ='F';
+
+select * from symptom_list order by subcategory	;
+select * from user_info;
+select DISTINCT(user_type), count(user_id) as cnt from user_info group by user_type order by cnt desc;
+
+-- update user_info set user_type= 'ABI' where user_type in ('ABO','Acquired Brain Injury')
+-- update user_info set user_type= 'Brain tumor' where user_type in ('Brain tumour')
+--update user_info set user_type= 'hasSymptom' where user_type = 'Had 2 major head injuries in MVA and suffer from undiagnosed, Neuro. Symptoms with acute, episodic flare ups.'
+--update user_info set user_type= 'Occupational Therapist' where user_type in ('OT-professional','Occupational Therapist of TBI patient')
+-- update user_info set user_type='Parkinsons' where user_type like '%Parkinso%'
+-- update user_info set user_type='Post-Concussive Syndrome' where user_type in('Post Concussion Syndrome','Post concussion like symptoms after anesthesia') 
+--update user_info set user_type='Professional' where user_type in ('provider','Provider','professional','Optometrist','Occupational Therapist','service provider','health care professional','clinician','Treats TBI patients as a recreational therapist','Therapist','Speech language Pathologist','Resource Facilitator','Neuropsychologist','Neurofeedback Practitioner','Employee','Dietetic Intern','Contractor','Certified Therapeutic Recreation Specialist')
+--update user_info set user_type='other' where user_type is NULL;
+--update user_info set user_type='other' where user_type not in ('tbiPatient',	'caregiver',	'hasSymptom',	'otherType',	'Parkinsons',	'Stroke',	'Concussion',	'Post-Concussive Syndrome',	'Alzheimers',	'ABI',	'Autism',	'Post-Covid',	'Epilepsy',	'Lewy Body',	'Covid Long-Haulers',	'CARE Manager',	'Professional')
+
+selet 
+select DISTINCT(injury_from),count(distinct(patient_id)) as cnt from tbi_incident group by injury_from ORDER by cnt desc;
+
+-- update tbi_incident set injury_from='Sports' where injury_from in ('&amp; sports')
+--update tbi_incident set injury_from='Accident' where injury_from in ('Work accident','Car accident','Accident, -spoorts....','Horse bucked off','Horse back riding accident with subsequent coma for a month with a gcs of 3 almost the whole time','Crash','Boot collapse on top of my head')
+--update tbi_incident set injury_from='Fall' where injury_from in ('Stairs','Fall and mva','Fall down steps','Falling object')
+--update tbi_incident set injury_from='Stroke' where injury_from in ('Strokes','Stroke from plaque and blood clot','Stroke','Prenatal stroke','2nd was hemorrhagic stroke','Subdural hemorrhage','Subarachnoid haemorrhage')
+--update tbi_incident set injury_from='None' where injury_from is NULL;
+--update tbi_incident set injury_from='Other' where injury_from not in ('Accident','Assault','Collision','Fall','Sports','None','Stroke')
+
+select DISTINCT(head_hit_location) from tbi_incident;
+--update tbi_incident set head_hit_location='Other' where head_hit_location not in ('Front of Head',	'Back of Head',	'Left Side of Head',	'Top of Head',	'Right Side of Head',	'Neck',	'Other');
+
+--update new_resulting_factors set category='other' where category is null;
+
+</sql><sql name="Final_JOIN_Query_2.sql">create table tbi_dataset as
+select pi.patient_id, pi.first_name,pi.date_of_birth, pi.gender, pi.patient_type,
+up.user_id,
+ui.user_type, ui.user_type, ui.referral_group, ui.veteran,ui.race,
+pp.provider_id, poi.type as provider_types,
+sl.category, sl.subcategory,
+pt.therapies,
+ti.tbi_incident_date, ti.injury_from, ti.total_tbi,ti.head_hit_location,
+fh.family_symptoms
+
+from patient_info as pi
+LEFT JOIN user_patients	as up ON pi.patient_id = up.patient_id
+LEFT JOIN user_info as ui ON up.user_id=ui.user_id
+LEFT JOIN provider_patient as pp ON pp.patient_id = pi.patient_id
+LEFT JOIN provider_info as poi ON poi.user_id= pp.provider_id	
+LEFT JOIN new_resulting_factors as tl ON tl.patient_about_id=pi.patient_id
+LEFT JOIN symptom_list as sl ON sl.id=tl.symptom_id
+LEFT JOIN patient_therapies as pt ON pt.patient_id = pi.patient_id
+LEFT JOIN tbi_incident as ti ON ti.patient_id = pi.patient_id
+LEFT JOIN family_history as fh ON fh.patient_id=pi.patient_id
+</sql><current_tab id="1"/></tab_sql></sqlb_project>
