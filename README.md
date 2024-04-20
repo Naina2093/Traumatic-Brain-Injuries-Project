@@ -31,6 +31,11 @@ The project examines the distinct variations in symptoms of Traumatic Brain Inju
 
 ![image](https://github.com/Naina2093/Traumatic-Brain-Injuries-Project/assets/157861184/b8934e86-b11b-4c23-bd5b-4e6128067f43)
 
+### Decision Tree Model
 
+<img width="492" alt="Screenshot 2024-04-20 163157" src="https://github.com/Naina2093/Traumatic-Brain-Injuries-Project/assets/157861184/4c76c617-875a-4dd2-b0d1-ea5ad09b8caa">
 
+### Random Forest Model
+
+<img width="513" alt="Screenshot 2024-04-20 162948" src="https://github.com/Naina2093/Traumatic-Brain-Injuries-Project/assets/157861184/df1f0369-1aa7-4b83-b6c3-ec64b50a5a31">
 
