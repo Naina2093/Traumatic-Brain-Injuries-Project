@@ -13,7 +13,7 @@ The project examines the distinct variations in symptoms of Traumatic Brain Inju
 
 ### Tools used
 
--R ![Alt text]((R_logo.png)
+![Alt text]((R_logo.png)
 
 -SQL
 
