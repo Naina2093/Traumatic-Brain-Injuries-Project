@@ -1,7 +1,7 @@
 # Traumatic Brain Injuries: Patient Data Analysis
 
-Traumatic brain injury (TBI) is a highly complex and heterogeneous disorder of the central nervous system (CNS), which is rapidly emerging as one of the leading causes of death and disability worldwide
-The project examines the distinct variations in symptoms of Traumatic Brain Injuries (TBIs) based on demographic factors and developing a database to facilitate access to data records for key attributes
+Traumatic brain injury (TBI) is a highly complex and heterogeneous disorder of the central nervous system (CNS), which is rapidly emerging as one of the leading causes of death and disability worldwide.
+The project examines the distinct variations in symptoms of Traumatic Brain Injuries (TBIs) based on demographic factors and developing a database to facilitate access to data records for key attributes.
 
 ## Objectives
 
