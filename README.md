@@ -13,13 +13,13 @@ The project examines the distinct variations in symptoms of Traumatic Brain Inju
 
 ### Tools used
 
-![Alt text]((R_logo.png)
+- R
 
--SQL
+- SQL
 
--Tableau
+- Tableau
 
--Tree basedmodeling techniques
+- Tree based modeling techniques
 
 ### Methodology
 ![image](https://github.com/Naina2093/Traumatic-Brain-Injuries-Project/assets/157861184/767ccfbf-2aae-4cbe-8ff6-aa3a4d20515d)
